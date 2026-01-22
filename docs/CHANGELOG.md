@@ -30,3 +30,15 @@ w podziale na iteracje oraz logiczne etapy.
 
 - Dodano szkielet komponentu Hero
 - Przygotowano strukturę pod tło i postać agenta
+
+## [0.1.3] – 2026-01-xx
+
+### Cel
+
+- Poprawna konfiguracja Tailwind CSS v4
+
+### Zmiany
+
+- Zintegrowano Tailwind CSS v4 z Vite przez oficjalny plugin
+- Uproszczono konfigurację CSS do @import "tailwindcss"
+- Zweryfikowano działanie klas narzędziowych
