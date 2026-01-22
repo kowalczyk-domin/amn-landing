@@ -1,8 +1,10 @@
+import Hero from "./components/Hero";
+
 function App() {
   return (
-    <div>
-      <h1>AMN</h1>
-    </div>
+    <>
+      <Hero />
+    </>
   );
 }
 
