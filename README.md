@@ -22,10 +22,3 @@ stanowiącego fundament pod dalszy rozwój aplikacji webowej AMN.
 - Git
 
 ---
-
-## 🚀 Uruchomienie lokalne
-
-```bash
-npm install
-npm run dev
-```
